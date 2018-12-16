@@ -4,6 +4,11 @@
 /dist
 /tmp
 /out-tsc
+/bazel-bin
+/bazel-blyazel-app
+/bazel-genfiles
+/bazel-out
+/bazel-testlogs
 
 # dependencies
 /node_modules
